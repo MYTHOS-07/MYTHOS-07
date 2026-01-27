@@ -11,7 +11,6 @@
 
 
 <p>
-  🔭 I’m currently working on <b>Microservices-based Project</b> <br>
   🌱 I’m learning <b>TypeScript</b> <br>
   👯 I’m looking to collaborate on <b>MERN Projects</b> <br>
   💬 Ask me about <b>MERN Stack</b> <br>
